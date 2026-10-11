@@ -7,3 +7,5 @@ Docker 可以將應用程式與所需的執行環境封裝在 Container 中，�
 透過 Docker 啟動 Juice Shop 後，可以在瀏覽器存取：
 
 http://localhost:3000
+
+<img width="1909" height="1016" alt="image" src="https://github.com/user-attachments/assets/3e47e0e6-44bf-4de2-935f-e4d2917a6fdb" />
